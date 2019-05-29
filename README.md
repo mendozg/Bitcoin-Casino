@@ -53,7 +53,7 @@ Help is greatly appreciated, feel free to submit pull-requests or open issues.
 * 🧠 Built-in high performance RNG-engine.
 * ⚖️ Provably Fair - Each game has a single transaction ID (TXID for short). To get the winning numbers, we convert the TXID from base 16 to base 10 and then pick the first two numbers from the TXID as the winning numbers.
 * 💡 Usability and scalability.
-* ⚛️ Supports multiple digital currencies (eg. Bitcoin, Litecoin, Dogecoin etc.).
+* ⚛️ Supports multiple digital currencies (eg. Bitcoin, Litecoin, GlobalBoost etc.).
 * 📖 Powerful admin dashboard and management tools.
 * 🔧 Highly configurable and extendable.
 * 🔐 Industry standard security out of the box.
@@ -88,17 +88,17 @@ Help is greatly appreciated, feel free to submit pull-requests or open issues.
 * <p>Sign up with <a target="_blank" href="https://m.do.co/c/397fb2277475">Digital Ocean</a><img width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
 * Install LAMP https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04
 * Edit the configuration file `sudo nano /base/init.php`
-* Install Litecoin & start the Litecoin Daemon `sudo litecoind` https://github.com/Jfaler/Bitcoin-Casino/wiki/Install-Litecoin-for-Bitcoin-Casino-&-Bitcoin-Slot-Machine
+* Install GlobalBoost & start the GlobalBoost Daemon `sudo globalboostd` https://github.com/mendozg/GlobalBoost-Casino/wiki/Install-GlobalBoost-for-GlobalBoost-Casino-&-GlobalBoost-Slot-Machine
 * Edit the configuration file `sudo nano /vendor/sql/phpliteadmin.conf.php`
 * Access PhpLiteAdmin Dashboard http://example.com/vendor/sql/phpliteadmin.php
 
 ### Clone
 
-- Clone this repo to your local machine using `sudo git clone https://github.com/Jfaler/Bitcoin-Casino.git`
+- Clone this repo to your local machine using `sudo git clone https://github.com/mendozg/GlobalBoost-Casino.git`
 
 ## Getting Involved
 
-Want to report a bug, request a feature, contribute or translate Bitcoin-Casino?
+Want to report a bug, request a feature, contribute or translate GlobalBoost-Casino?
 
 
 ### Step 1
@@ -107,10 +107,10 @@ Want to report a bug, request a feature, contribute or translate Bitcoin-Casino?
     - 🍴 Fork & star this repo!
 
 - **Option 2**
-    - 👯 Clone this repo to your local machine using `https://github.com/Jfaler/Bitcoin-Casino.git`
+    - 👯 Clone this repo to your local machine using `https://github.com/mendozg/GlobalBoost-Casino.git`
 
 - **Option 3**
-    - 🔔 Browse our [issues](https://github.com/Jfaler/Bitcoin-Casino/issues), comment on proposals, report bugs.
+    - 🔔 Browse our [issues](https://github.com/mendozg/GlobalBoost-Casino/issues), comment on proposals, report bugs.
 
 ### Step 2
 
@@ -118,7 +118,7 @@ Want to report a bug, request a feature, contribute or translate Bitcoin-Casino?
 
 ### Step 3
 
-- 🔃 Create a new pull request using <a href="https://github.com/jfaler/Bitcoin-Casino/compare/" target="_blank">`https://github.com/jfaler/Bitcoin-Casino/compare/`</a>.
+- 🔃 Create a new pull request using <a href="https://github.com/mendozg/GlobalBoost-Casino/compare/" target="_blank">`https://github.com/mendozg/GlobalBoost-Casino/compare/`</a>.
 
 ### Step 4
 
