@@ -85,7 +85,7 @@ Help is greatly appreciated, feel free to submit pull-requests or open issues.
 
 ## Installation
 
-* <p>Sign up with <a target="_blank" href="https://m.do.co/c/397fb2277475">Digital Ocean</a><img width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
+* <p>Sign up with <a target="_blank" href="https://m.do.co/c/f8fd09938056">Digital Ocean</a><img width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
 * Install LAMP https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04
 * Edit the configuration file `sudo nano /base/init.php`
 * Install GlobalBoost & start the GlobalBoost Daemon `sudo globalboostd` https://github.com/mendozg/GlobalBoost-Casino/wiki/Install-GlobalBoost-for-GlobalBoost-Casino-&-GlobalBoost-Slot-Machine
